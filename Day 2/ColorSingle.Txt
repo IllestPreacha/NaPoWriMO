@@ -1,0 +1,10 @@
+Red
+Blue
+Gold
+Mauve
+Green
+Pink
+Black
+White
+Grey
+Bronze

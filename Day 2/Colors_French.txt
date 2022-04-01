@@ -1,0 +1,11 @@
+rouges
+bleus
+blancs
+noirs
+roses
+mauves
+jaunes
+ors
+verts
+gris
+bruns
