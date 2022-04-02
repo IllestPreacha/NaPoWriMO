@@ -30,7 +30,7 @@ with open("MovementDouble.Txt", "r") as Movement_2:  #open and read the text fil
 def eng_haiku():
     print(random.choice(C1_Used).upper() + " " + "with " + random.choice(C2_Used) +  " " + random.choice(A1_Used).upper())
     print(random.choice(M2_Used) + "," + " " + random.choice(M2_Used) + "," + " and " + random.choice(M2_Used))
-    print("enjoying thier time")
+    print("enjoying their time")
     
 
 
