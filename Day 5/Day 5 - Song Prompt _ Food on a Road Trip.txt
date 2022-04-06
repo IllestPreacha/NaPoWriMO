@@ -1,0 +1,71 @@
+#NaPoGenMo #NaPoWRiMO ##napowrimoxayaskala Using @ayaskala day 5 prompt: Song Prompt Using RiteInRolls, #p5js based tool to direct the constraints of the poetry
+
+Music is coded through seis8s by Luis Navarro : http://luisnavarrodelangel.net/seis8s.html to help guide the words and constraints provided by the RiteInRolls Tool
+
+Musical Code Snippet :
+
+"tempo 0.475;
+tumbao 4 $ cumbia bajo;
+cumbia jamblock;
+acompanamiento (2 3 4) $ cumbia teclado;
+acompanamiento (2 4 6) $ cumbia bajo;
+marcha ("p" "t" "p" "a" "t" "t" "p" "a") (1 2 3 4 4.5) $ cumbia congas;
+cumbia congas;
+acordes [re m, fa, la, la, fa, re m];
+punteo ["3a", "4c", "5a", "1b"] [3, 4, 1 1.5 2 2.5 ]$ sample 3 $ cumbia teclado;
+punteo ["3a", "4b", "5b", "1c"] [3, 4, 1 1.5 2 2.5 ]$ sample 2 $ cumbia teclado;
+punteo ["3c", "4b", "5c", "1b"] [3, 4, 1 1.5 2 2.5 ]$ sample 1 $ cumbia teclado;"
+
+
+Description of Seis8s:  "seis8s (pronounced 'seis octavos') is a programming language that allows real-time interaction with digital audio and localized musical knowledge, particularly of Latin American music. Seis8s is a recent project that aims to be collaborative, through consensual musical knowledge from the different personal and collective borders that exist in connection with Latin America. "
+
+
+
+Chorus: Food and Road Trip
+Rite in Rolls Starting Lines : W W J D B R
+
+Waking up to the smell of food
+Would I grill or use the smoke of wood
+Jalapenos for flavour
+Delicious appetisers for Dinner 
+Be Careful of the bugs as this road trip
+Roars loud as we enter the other side of the flip
+
+Rite in Rolls Starting Lines : Q A E D P L G N
+Topic: Numbers , Colours, Numbers
+
+
+Questioning if the kilometres are right
+Alienating thoughts as the yellow on the humus is so tight
+Entering the mouth, why is this yellow quite bright
+Determining  the aspects of the recipes may have been a millilitre 
+Precisely, 7 millimetres off
+Locating what others source of food we brought
+Guessing this first part of the trip, is more than we thought
+Numbing thoughts as it was numbers, we didn't realise had to be fought
+
+Waking up to the smell of food
+Would I grill or use the smoke of wood
+Jalapenos for flavour
+Delicious appetisers for Dinner 
+Be Careful of the bugs as this road trip
+Roars loud as we enter the other side of the flip
+
+Rite in Rolls Topics:  Mountain and Art
+Rite in Rolls Starting Lines : C I E S F
+
+Cruising through the terrain as if it was no one business
+Interacting with nature as this is what the forest used as its canvas
+Echoing sounds as we are blitzing away
+Savouring of course occurs as the scenery has made our senses play
+Flowers emerging, left and right as the sun calls it a day
+
+
+
+Waking up to the smell of food
+Would I grill or use the smoke of wood
+Jalapenos for flavour
+Delicious appetisers for Dinner 
+Be Careful of the bugs as this road trip
+Roars loud as we enter the other side of the flip
+
